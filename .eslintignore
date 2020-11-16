@@ -1,0 +1,9 @@
+build/*.js
+src/assets
+public
+dist
+src/views
+src/styles
+src/utils
+src/router
+src/api
